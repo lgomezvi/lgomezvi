@@ -6,7 +6,7 @@
 
 # here is some info about me
 - 🔭 I’m currently working on LLM research 
-- 🌱 I’m currently learning Lua, agentic stuff, german 
+- 🌱 I’m currently learning Lua, agentic stuff, german, chess mastering
 - 👯 I’m looking to collaborate on anything that spikes my interests 
 - 🤔 I’m looking for help with Agentic workflows and LLM dev 
 - 💬 Ask me about FMAB, Naruto, Fable 3, languages, my cat, philosophy, travelling, puzzles, montreal!,conferences, music (Tame Impala, Paradis..), or anything :p
