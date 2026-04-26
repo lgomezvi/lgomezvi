@@ -1,10 +1,9 @@
 
 ## Holaa there 👋
 
-![](.profile-3d-contrib/profile-south-season-animate.svg)
-![](.profile-3d-contrib/profile-south-season.svg)
+![](profile-3d-contrib/profile-south-season-animate.svg)
+![](profile-3d-contrib/profile-south-season.svg)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LLM research 
 - 🌱 I’m currently learning Lua, agentic stuff, german 
