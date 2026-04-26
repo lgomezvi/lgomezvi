@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have lived in 6 countries and speak 4 languages (trying to level up my german so I can say 5) 
 
 here is a photo of me and sara 
-<img width="862" height="1158" alt="sara" src="https://github.com/user-attachments/assets/7de95c49-edc6-4c18-b5df-2aeecb619fad" />
+<img width="215" height="289" alt="sara" src="https://github.com/user-attachments/assets/7de95c49-edc6-4c18-b5df-2aeecb619fad" />
