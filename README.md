@@ -1,10 +1,10 @@
 
-## Holaa there 👋
+## here are some stats 
 
 ![](profile-3d-contrib/profile-south-season-animate.svg)
-![](profile-3d-contrib/profile-south-season.svg)
 
 
+# here is some info about me
 - 🔭 I’m currently working on LLM research 
 - 🌱 I’m currently learning Lua, agentic stuff, german 
 - 👯 I’m looking to collaborate on anything that spikes my interests 
